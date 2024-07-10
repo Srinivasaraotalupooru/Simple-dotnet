@@ -1,4 +1,4 @@
-## Records - Learning Plan
+## Learning Plan for Records in C#
 
 ### 1. Introduction to Records
 - **Goal**: Understand what records are and their primary use cases.
